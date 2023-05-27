@@ -1,0 +1,6 @@
+git init // initialize all to empty
+git add . // adds the files
+git commit -m "comitName"
+paste the url from repo created 
+now its pushed in remote repo
+the repo now doesnt have node modules because it was written in gitignore. so how will someone with our repo can use it because node modules are nescessary to run depedencies.
