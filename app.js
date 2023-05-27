@@ -11,4 +11,4 @@ const _ = require("lodash");
 // console.log(_);
 const arr = [1, [2, [3, [4]]]];
 console.log(_.flattenDeep(arr));
-console.log(arr);
+console.log("hello world");

@@ -9,3 +9,4 @@ if (amount == 0) {
 }
 
 console.log(`hello world !!`);
+console.log("hey");
