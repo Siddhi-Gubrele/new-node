@@ -4,3 +4,4 @@ git commit -m "comitName"
 paste the url from repo created 
 now its pushed in remote repo
 the repo now doesnt have node modules because it was written in gitignore. so how will someone with our repo can use it because node modules are nescessary to run depedencies.
+the repo can be cloned and package.jason will be cloned too. so we only need to run the command install npm and we'll be good to use node modules.
